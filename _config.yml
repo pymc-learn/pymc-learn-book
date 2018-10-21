@@ -1,2 +1,12 @@
-main_rmd: "book.Rmd"
-chapter_name: "CHAPTER "
+book_filename: pymc-learn-book
+repo: https://github.com/pymc-learn/pymc-learn-book/
+output_dir: _book
+clean: [packages.bib, bookdown.bbl]
+delete_merged_file: true
+language:
+  label:
+    fig: "FIGURE "
+    tab: "TABLE "
+  ui:
+    edit: "Edit"
+    chapter_name: "Chapter "

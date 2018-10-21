@@ -1,0 +1,3 @@
+# About the Author {-}
+
+We describe our methods in this chapter.

@@ -1,3 +1,9 @@
+\mainmatter
+
+\cleardoublepage 
+
+# PART I: THE FUNDAMENTALS {-}
+
 # Introduction {#intro}
 
 You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
@@ -16,3 +22,11 @@ knitr::kable(head(iris, 20), caption = 'Here is a nice table!', booktabs = TRUE)
 ```
 
 You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
+
+## Motivation
+
+## Get started
+
+The easiest way for beginners to get started with
+
+## Usage {#usage}
