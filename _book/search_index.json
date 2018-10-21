@@ -9,17 +9,8 @@
 ["motivation.html", "1.1 Motivation", " 1.1 Motivation "],
 ["get-started.html", "1.2 Get started", " 1.2 Get started The easiest way for beginners to get started with "],
 ["usage.html", "1.3 Usage", " 1.3 Usage "],
-["what-is-probabilistic-machine-learning.html", "2 What is Probabilistic Machine Learning?", " 2 What is Probabilistic Machine Learning? Here is a review of existing methods. "],
 ["before-we-start-the-mathematics-of-probilistic-machine-learning.html", "3 Before We Start: The Mathematics of Probilistic Machine Learning", " 3 Before We Start: The Mathematics of Probilistic Machine Learning Daniel Emaasit is a Data Scientist at Haystax Technology. His interests involve developing principled probabilistic models for problems where training data are scarce by leveraging knowledge from subject-matter experts and context information. In particular, he is interested in flexible probabilistic machine learning methods, such as Gaussian processes and Dirichlet processes, and data-efficient learning methods such as Bayesian optimization &amp; Model-based Reinforcement Learning. He is also a Ph.D. Candidate of Transportation Engineering at UNLV where his research in nonparametric Bayesian methods is focused on developing flexible-statistical models for traveler-behavior analytics. "],
-["getting-started-with-probabilistic-machine-learning.html", "4 Getting Started With Probabilistic Machine Learning", " 4 Getting Started With Probabilistic Machine Learning Some significant applications are demonstrated in this chapter. "],
-["example-one.html", "4.1 Example one", " 4.1 Example one "],
-["example-two.html", "4.2 Example two", " 4.2 Example two "],
-["fundamentals-of-probabilistic-machine-learning.html", "5 Fundamentals of Probabilistic Machine Learning", " 5 Fundamentals of Probabilistic Machine Learning We have finished a nice book. "],
 ["part-ii-probabilistic-machine-learning-in-practice.html", "PART II: PROBABILISTIC MACHINE LEARNING IN PRACTICE", " PART II: PROBABILISTIC MACHINE LEARNING IN PRACTICE "],
 ["generative-modeling.html", "6 Generative Modeling", " 6 Generative Modeling We have finished a nice book. "],
-["probabilistic-machine-learning-best-practices.html", "7 Probabilistic Machine Learning Best Practices", " 7 Probabilistic Machine Learning Best Practices We have finished a nice book. "],
-["probabilistic-machine-learning-for-computer-vision.html", "8 Probabilistic Machine Learning for Computer Vision", " 8 Probabilistic Machine Learning for Computer Vision We have finished a nice book. "],
-["probabilistic-machine-learning-for-text-and-sequences.html", "9 Probabilistic Machine Learning for Text And Sequences", " 9 Probabilistic Machine Learning for Text And Sequences We have finished a nice book. "],
-["conclusions.html", "10 Conclusions", " 10 Conclusions We have finished a nice book. "],
 ["references.html", "References", " References "]
 ]
