@@ -1,0 +1,3 @@
+# Probabilistic Machine Learning for Computer Vision
+
+We have finished a nice book.

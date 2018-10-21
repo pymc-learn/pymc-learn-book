@@ -1,0 +1,59 @@
+--- 
+title: "Practical Probabilistic Machine Learning with Python"
+author: "Daniel Emaasit"
+date: "`r Sys.Date()`"
+knit: "bookdown::render_book"
+output:
+  bookdown::gitbook:
+    lib_dir: "book_assets"
+  bookdown::pdf_book:
+    includes:
+      in_header: preamble.tex
+    keep_tex: yes
+    latex_engine: xelatex
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+twitter-handle: emaasit
+cover-image: figures/sylvain_marechal.jpg
+description: "Practical Probabilistic Machine Learning with Python"
+github-repo: pymc-learn/pymc-learn-book
+url: 'https://github.com/pymc-learn/pymc-learn-book'
+---
+
+# Welcome {-}
+
+<img src="figures/sylvain_marechal.jpg" alt="figures/sylvain_marechal.jpg" width="400"/>
+
+This is the [online version](https://pymc-learn.github.io/pymc-learn-book/) of the book: [Practical Probabilistic Machine Learning with Python](). Pull requests and general comments are welcome.
+
+*Practical Probabilistic Machine Learning with Python* is [e.g. @chang2012r], data science [e.g. @grolemund_r_2016] and package development [e.g. @Wickham_2015].
+
+## How to Get the Book {-}
+
+To build the book:
+
+1. Install the latest version of R
+    * If you are using RStudio, make sure that's up-to-date as well
+1. Install the book dependencies.
+    ```{r eval=FALSE}
+    # Make sure you are using the latest version of `devtools`
+    # Older versions do not work.
+    devtools::install_github("pymc-learn/pymc-learn-book")
+    ```
+1. Clone the pymc-learn-book [repo](https://github.com/pymc-learn/pymc-learn-book)
+1. If you are using `RStudio`, open `index.Rmd` and click `Knit`.
+    * Alternatively, use the bundled `Makefile`
+
+## Author {-}
+
+[Daniel Emaasit](http://www.danielemaasit.com/) is a Data Scientist at [Haystax Technology](https://www.haystax.com). His interests involve developing principled [probabilistic models](http://mlg.eng.cam.ac.uk/zoubin/bayesian.html) for problems where training data are scarce by leveraging knowledge from subject-matter experts and context information. In particular, he is interested in [flexible](http://mlg.eng.cam.ac.uk/pub/topics/#np) [probabilistic machine learning](http://mlg.eng.cam.ac.uk/zoubin/bayesian.html) methods, such as Gaussian processes and Dirichlet processes, and data-efficient learning methods such as [Bayesian optimization](https://arxiv.org/abs/1012.2599) & [Model-based Reinforcement Learning](https://arxiv.org/abs/1706.06491).
+
+He is also a Ph.D. Candidate of Transportation Engineering at [UNLV](http://www.unlv.edu/) where his research in [nonparametric Bayesian](http://mlg.eng.cam.ac.uk/pub/topics/#np) methods is focused on developing flexible-statistical models for traveler-behavior analytics.
+
+This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/us/) United States License. 
+
+# Preface {-}
+
+*Practical Probabilistic Machine Learning with Python* is [e.g. @chang2012r], data science [e.g. @grolemund_r_2016] and package development [e.g. @Wickham_2015].

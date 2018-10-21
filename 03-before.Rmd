@@ -1,0 +1,3 @@
+# Before We Start: The Mathematics of Probilistic Machine Learning
+
+We describe our methods in this chapter.
