@@ -1,3 +1,0 @@
-# Probabilistic Machine Learning for Text And Sequences
-
-We have finished a nice book.

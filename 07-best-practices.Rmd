@@ -1,3 +1,0 @@
-# Probabilistic Machine Learning Best Practices
-
-We have finished a nice book.

@@ -1,7 +1,0 @@
-\cleardoublepage 
-
-# PART II: PROBABILISTIC MACHINE LEARNING IN PRACTICE {-}
-
-# Generative Modeling
-
-We have finished a nice book.
