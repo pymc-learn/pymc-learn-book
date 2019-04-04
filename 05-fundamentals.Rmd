@@ -1,3 +1,0 @@
-# Fundamentals of Probabilistic Machine Learning
-
-We have finished a nice book.
