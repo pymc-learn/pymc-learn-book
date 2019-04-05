@@ -3,7 +3,7 @@ interact_link: content/features/search.ipynb
 kernel_name: python3
 title: 'Probabilistic Machine Learning for Text And Sequences'
 prev_page:
-  url: /features/citations
+  url: /features/search
   title: 'Probabilistic Machine Learning for Text And Sequences'
 next_page:
   url: /https://github.com/jupyter/jupyter-book

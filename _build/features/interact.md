@@ -6,7 +6,7 @@ prev_page:
   url: /features/hiding
   title: 'Probabilistic Machine Learning for Sports Analytics'
 next_page:
-  url: /features/citations
+  url: /features/search
   title: 'Probabilistic Machine Learning for Text And Sequences'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---

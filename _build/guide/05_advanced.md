@@ -1,13 +1,13 @@
 ---
 redirect_from:
   - "/guide/05-advanced"
-title: 'Getting Started With Probabilistic Machine Learning'
+title: 'Fundamentals of Probabilistic Machine Learning'
 prev_page:
-  url: /guide/04_faq
-  title: 'Before We Start: The Mathematics of Probabilistic Machine Learning'
-next_page:
   url: /guide/05_advanced
-  title: 'Fundamentals of Probabilistic Machine Learning'
+  title: 'Getting Started With Probabilistic Machine Learning'
+next_page:
+  url: /features/features
+  title: 'PART II: PROBABILISTIC MACHINE LEARNING IN PRACTICE'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 This page contains more advanced and complete information about the
